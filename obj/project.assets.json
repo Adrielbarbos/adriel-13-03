@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENAI\\Documents\\_SENAI\\Atividade\\Atividade.csproj",
+      "projectUniqueName": "c:\\Users\\SENAI\\Documents\\adriel-13-03\\Atividade.csproj",
       "projectName": "Atividade",
-      "projectPath": "C:\\Users\\SENAI\\Documents\\_SENAI\\Atividade\\Atividade.csproj",
+      "projectPath": "c:\\Users\\SENAI\\Documents\\adriel-13-03\\Atividade.csproj",
       "packagesPath": "C:\\Users\\SENAI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENAI\\Documents\\_SENAI\\Atividade\\obj\\",
+      "outputPath": "c:\\Users\\SENAI\\Documents\\adriel-13-03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENAI\\AppData\\Roaming\\NuGet\\NuGet.Config"
